@@ -9,7 +9,7 @@ setopt autocd
 
 
 # Path
-export PATH="/home/david/bin:$PATH"
+export PATH="~/bin:$PATH"
 
 # Prompt
 PROMPT='%B%F{green}%m %B%F{grey}$%f%b '
@@ -110,5 +110,5 @@ zstyle ':completion:*:ssh:*' group-order \
    hosts-domain hosts-host users hosts-ipaddr
 zstyle '*' single-ignored show
 
-eval "$(dircolors -b /home/david/.dircolors)"
-motd
+eval "$(dircolors -b ~/.dircolors)"
+~/bin/motd
