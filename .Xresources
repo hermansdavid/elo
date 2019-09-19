@@ -1,0 +1,20 @@
+Xft.autohint:		false
+Xft.lcdfilter: 		lcddefault
+Xft.hinting:		true
+Xft.hintstyle:		hintslight
+Xft.antialias:		true
+Xft.rgba:		none
+Xft.dpi:		96
+
+!COLORS
+#include ".config/colors/getfresh"
+
+
+URxvt.cursorBlink:	true
+URxvt.scrollBar:	false
+URxvt.font:		xft:terminus:pixelsize=12
+URxvt.saveLines:	1000
+URxvt.depth:		32
+URxvt.lineSpace:	1
+URxvt.internalBorder:	8
+URxvt.background: 	rgba:0000/0000/0200/c800

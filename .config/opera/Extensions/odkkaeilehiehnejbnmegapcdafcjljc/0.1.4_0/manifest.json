@@ -1,0 +1,29 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "19": "/img/giphy_icon_19.png",
+         "38": "/img/giphy_icon_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Giphy for Opera"
+   },
+   "content_scripts": [ {
+      "js": [ "/js/jquery.min.js", "/js/contentscripts/hipchat.js" ],
+      "matches": [ "https://*.hipchat.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Bring the power of a GIF search engine anywhere on the web. Respond to emails, tweets and more with GIFs quickly and easily.",
+   "developer": {
+      "name": "giphy"
+   },
+   "icons": {
+      "128": "/img/128x128_vertical.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6fA1QVRXTW7b129baNb1gdzWKLjK5zApkwSaX2ZkA9jRNtOJ6iAJtbCiu4TotcBdq5vZ3XNbG8pigv+N32d++O0bl40hsqEBFo3xnDUqVaKq6ZZPhLABjwIxANoWJ+wt82zxQf+MNSrIidthYLBRXmrx+jdw7JloEb2pVNavsnWFFvettrVlgYBCAmbuW/4oMOFXF/anLs+Dzr5haJGEIiy46h5tBXcq4xn1wAF3HlzuxGlNBpnHVIgrkBuzSMhLkG2gLstqVyVVjTzhbYTOQkGwkini4A2TUZMHSf4DepJnYdOWXI8V9SAs9M4OWaiU1sQQ/pd6Nd9ZT12C2fWsewIDAQAB",
+   "manifest_version": 2,
+   "name": "Giphy for Opera",
+   "permissions": [ "contextMenus", "https://*.google-analytics.com/*", "http://*.giphy.com/*", "http://giphy.com/*" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "0.1.4"
+}

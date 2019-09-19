@@ -1,0 +1,226 @@
+{
+   "checksum": "183309d92f6efcf23ac1fcceaa6de1c3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13213317757536882",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13213317758093617",
+                  "id": "9",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/19ea7f40b1ae613c104a34d808d66a2d5d42d752.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                     "imageDataType": "2",
+                     "imageID": "EF2C9F7CEE1885578697DE640325E16BFDA0A35D79805CFCC1ED5DFA88C8813E",
+                     "imageType": "2",
+                     "partner_id": "amazon",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                     "partner_url": "http://www.amazon.com/?tag=operadesktop-sd-generic-20",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon",
+                     "revision": "20181109",
+                     "server_position": "1"
+                  },
+                  "name": "Amazon.com",
+                  "type": "url",
+                  "url": "http://www.amazon.com/"
+               }, {
+                  "date_added": "13213317758096228",
+                  "id": "10",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/7cf961789fe79e374395db2135e3511cc5fe0cd6.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                     "imageDataType": "2",
+                     "imageID": "5856580431A344785082CAC829A71C16B9512D415DF24B7F393D146CE0C12844",
+                     "imageType": "2",
+                     "partner_id": "ebay",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                     "partner_url": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=1&pub=5574672411&toolid=10001&campid=5337712852&customid=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/ebay",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.com/"
+               }, {
+                  "date_added": "13213317758100104",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a07ea74aa0b3aae5b7dc37789a2e834b1e883060.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=343336&label=operasoft-sdO15-343336&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com",
+                     "revision": "20190614",
+                     "server_position": "3"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13213317758102523",
+                  "id": "12",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/609fa7dfdac6e13e43d220628faf73eb0bc67ff2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_be",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "partner_url": "https://redir.opera.com/speeddials/partner/aliexpress_com_be",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_be",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13213317758103570",
+                  "id": "13",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/b189f6ad04d571890f02d63d295ae3815bc60d64.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "imageDataType": "2",
+                     "imageID": "B90AB9E80FDD4C95038EBDFE11BC7C7C532FD38CD3816EA666EDAC5D8CECFBFF",
+                     "imageType": "2",
+                     "partner_id": "facebook",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "partner_url": "https://www.facebook.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/facebook",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "Facebook",
+                  "type": "url",
+                  "url": "http://www.facebook.com/"
+               }, {
+                  "date_added": "13213317758105182",
+                  "id": "14",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/fea9e14de3a44b9531b645bf35b7c63c4d0eb886.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/9225a5043005de70d83583064468457c17a5c685.png",
+                     "imageDataType": "2",
+                     "imageID": "B5997E1FF96C409B3D9861A7D3579ABB80B24B4DC8EE8EDFBFF377977F0D9BAD",
+                     "imageType": "2",
+                     "partner_id": "yahoo",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9225a5043005de70d83583064468457c17a5c685.png",
+                     "partner_url": "https://searchoper.com/?a=gsp_opera_00_00_ssg02",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/yahoo",
+                     "revision": "20171003",
+                     "server_position": "6"
+                  },
+                  "name": "Yahoo!",
+                  "type": "url",
+                  "url": "http://www.yahoo.com/"
+               }, {
+                  "date_added": "13213318502387738",
+                  "id": "18",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/f630beaa98d8d529ade9af1153a86190d4f120e5.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/b2212365035a0d3c41052fd63eb892321b8f363a.png",
+                     "imageDataType": "2",
+                     "imageID": "3D827BFC11986463A749FBB2D8BCA8BADF05FD149F1B9D05BE200E5DCEC6223F",
+                     "imageType": "2",
+                     "partner_id": "youtube",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/b2212365035a0d3c41052fd63eb892321b8f363a.png",
+                     "partner_url": "https://www.youtube.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/youtube",
+                     "revision": "20171003",
+                     "server_position": "7"
+                  },
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/"
+               }, {
+                  "date_added": "13213317758111458",
+                  "id": "15",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/3c315f655f4af52cd6be32758d530ca71364a951.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/8ec606553a634abe683ee7ccda36badeeca32dc6.png",
+                     "imageDataType": "2",
+                     "imageID": "2F2AD9EE5DBE554406108E762C43C464A6AA160160C161DE465FA2F8BA5373AC",
+                     "imageType": "2",
+                     "partner_id": "takeaway_be",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8ec606553a634abe683ee7ccda36badeeca32dc6.png",
+                     "partner_url": "http://www.awin1.com/awclick.php?gid=342903&mid=12398&awinaffid=141629&linkid=2211357&clickref=",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/takeaway_be",
+                     "revision": "20190325",
+                     "server_position": "8"
+                  },
+                  "name": "Takeaway",
+                  "type": "url",
+                  "url": "https://www.takeaway.com/be"
+               } ],
+               "date_added": "13213317757776710",
+               "date_modified": "13213318502387738",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "48dee02d-3c72-4364-83e9-937c8b57e3e4"
+               },
+               "name": "helios",
+               "type": "folder"
+            } ],
+            "date_added": "13213317757776652",
+            "date_modified": "0",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13213317757776652",
+            "date_modified": "0",
+            "id": "7",
+            "name": "Trash",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13213317757776650",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13213317757776651",
+            "date_modified": "0",
+            "id": "5",
+            "name": "Other bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13213317757536888",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Imported bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13213317757536889",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
