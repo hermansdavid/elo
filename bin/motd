@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Colors
+reset="\033[0m"
+black="\033[0;30m"
+red="\033[0;31m" 
+green="\033[0;32m"
+orange="\033[0;33m" 
+blue="\033[0;34m"
+magenta="\033[0;35m"
+cyan="\033[0;36m"
+white="\033[0;37m"
+
+resetb="\033[1m"
+blackb="\033[1;30m"
+redb="\033[1;31m" 
+greenb="\033[1;32m"
+orangeb="\033[1;33m" 
+blueb="\033[1;34m"
+magentab="\033[1;35m"
+cyanb="\033[1;36m"
+whiteb="\033[1;37m"
+
+echo -e "
+${red}   _  _     ${reset}Hostname: ${green}`hostname`
+${red} _| || |_   ${reset}Address: ${green}`hostname -I | awk '{print $1}'`
+${red}|_  __  _|  ${reset}User: ${green}`whoami`
+${red} _| || |_   ${reset}Uptime: ${green}`uptime -p`
+${red}|_  __  _|  ${reset}CPU: ${green}`lscpu | sed -nr '/Model name/ s/.*:\s*(.*) @ .*/\1/p'`
+${red}  |_||_|    ${reset}Memory: ${green}4 Gb
+"
+
+
+
+ 
